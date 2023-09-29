@@ -1,0 +1,20 @@
+{
+  "short_name": "portfolio",
+  "name": "William Whites Portfolio",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/portfolio/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#087E86"
+}
